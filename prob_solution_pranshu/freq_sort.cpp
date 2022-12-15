@@ -57,5 +57,10 @@ int main() {
     return 0;
 }
 
+/*
+ here the time complesxity of the array is : o(n2):
+ 
+*/
+
 
 
